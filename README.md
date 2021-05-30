@@ -15,5 +15,7 @@ Assignment-8
 Link for google colab is-https://colab.research.google.com/drive/1ZSC_iUrkWx1sz40-_Ve9KDOQJ7G1SMf-#scrollTo=uiJNOdKU-oCJ
 Assignment-9
 :Link for google colab is-https://colab.research.google.com/drive/1IKcS-mX2u4D1Cr6Fp-HNthMKlsWNwh_V
+Assignment-10
+:Link for google colab is-https://colab.research.google.com/drive/1oPh8ZrNOO_v4_HaUaNUc1BiCgdTemEYX#scrollTo=Iy2v6CREC5zj
 Assignment-11
 :Link for google colb is:-https://colab.research.google.com/drive/1FNdnqYbVLMZy5BikMG6AFnG2Tb3H-Pvq#scrollTo=m_nEiwFDzVRZ
