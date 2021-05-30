@@ -21,3 +21,5 @@ Assignment-11
 :Link for google colb is:-https://colab.research.google.com/drive/1FNdnqYbVLMZy5BikMG6AFnG2Tb3H-Pvq#scrollTo=m_nEiwFDzVRZ
 ASSIGNMENT-13
 :lINK FOR GOOGLE COLAB:https://colab.research.google.com/drive/1jQeCR5svx3rsk2hRJsYUi2LsHHMj7R0W#scrollTo=kTtRkB0HP3lt
+Assignment-14
+:Link for google colab is:https://colab.research.google.com/drive/1MQSggxXKZfqlcv3AdD1XFFox7cm-rit-#scrollTo=0_fh16qeTHf7
